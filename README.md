@@ -1,2 +1,2 @@
 # AQW-Ruffle
-Reuped project for aqw ruffle
+Reup project for aqw ruffle
